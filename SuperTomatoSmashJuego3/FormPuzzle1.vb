@@ -49,7 +49,7 @@
             Dim Result As DialogResult
             Result = MessageBox.Show("El rompecabezsa está incompleto", "", MessageBoxButtons.OK, MessageBoxIcon.Asterisk)
             If Result = DialogResult.OK Then
-                Close()
+
             End If
         End If
     End Sub
